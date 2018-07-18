@@ -1,3 +1,20 @@
+## About Wizard Workshop
+
+Wizard Workshop is intended to be a long term, fun, personalized project. It's original concept was to have a place to make and use tools I created from anywhere, as well as a place to easily make databases, forms, notes, folders, and links. This way even if I was away from my personal computer I would still have access to a great deal of my stuff. It occurred to me that on top of being a great station for a lot of my work and notes, it would also double nicely as a portfolio for guests, with some simple modifications near the outset it would be totally possible to make 2 kinds of views. One, for me to work, add and contribute to the existing workshop, and two, for anyone who wanted to see what I was up to, what great work I'd done, and possibly message me, give feedback, or contribute to the site.
+
+This site should have:
+
+- Simple and secure access anywhere you can get internet
+- Useful tools for programmers but specifically for me
+- A great place to make and store information: notes, books, links, databases and other content
+- A great appearance and excellent display of the work I've done.
+
+Made with Laravel
+<!-- 
+
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
@@ -58,3 +75,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+ -->
